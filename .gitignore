@@ -1,6 +1,217 @@
-.pio
-.vscode/.browse.c_cpp.db*
+.pio/build/project.checksum
+.pio/build/d1_mini_lite/.sconsign39.dblite
+.pio/build/d1_mini_lite/firmware.bin
+.pio/build/d1_mini_lite/firmware.elf
+.pio/build/d1_mini_lite/idedata.json
+.pio/build/d1_mini_lite/libFrameworkArduino.a
+.pio/build/d1_mini_lite/libFrameworkArduinoVariant.a
+.pio/build/d1_mini_lite/FrameworkArduino/abi.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/base64.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/cbuf.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/cont_util.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/cont.S.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_app_entry_noextra4k.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_eboot_command.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_features.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_flash_quirks.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_flash_utils.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_i2s.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_main.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_noniso.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_phy.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_postmortem.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_si2c.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_sigma_delta.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_spi_utils.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_timer.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_waveform.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring_analog.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring_digital.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring_pulse.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring_pwm.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring_shift.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/core_esp8266_wiring.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/crc32.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Crypto.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/debug.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Esp-frag.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Esp-version.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Esp.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/flash_hal.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/FS.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/FSnoop.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/FunctionalInterrupt.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/gdb_hooks.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/HardwareSerial.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/heap.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/IPAddress.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/libc_replacements.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/MD5Builder.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Print.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Schedule.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/sntp-lwip2.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs_api.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/sqrt32.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/StackThunk.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Stream.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/StreamString.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/time.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Tone.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/TypeConversion.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/uart.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/Updater.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/WMath.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/WString.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/libb64/cdecode.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/libb64/cencode.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs/spiffs_cache.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs/spiffs_check.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs/spiffs_gc.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs/spiffs_hydrogen.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/spiffs/spiffs_nucleus.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/umm_malloc/umm_info.c.o
+.pio/build/d1_mini_lite/FrameworkArduino/umm_malloc/umm_integrity.c.o
+.pio/build/d1_mini_lite/FrameworkArduino/umm_malloc/umm_local.c.o
+.pio/build/d1_mini_lite/FrameworkArduino/umm_malloc/umm_malloc.cpp.o
+.pio/build/d1_mini_lite/FrameworkArduino/umm_malloc/umm_poison.c.o
+.pio/build/d1_mini_lite/ld/local.eagle.app.v6.common.ld
+.pio/build/d1_mini_lite/lib863/libESP8266WiFi.a
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/BearSSLHelpers.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/CertStoreBearSSL.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFi.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiAP.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiGeneric.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiGratuitous.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiMulti.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiScan.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiSTA-WPS.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/ESP8266WiFiSTA.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiClient.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiClientSecureAxTLS.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiClientSecureBearSSL.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiServer.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiServerSecureAxTLS.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiServerSecureBearSSL.cpp.o
+.pio/build/d1_mini_lite/lib863/ESP8266WiFi/WiFiUdp.cpp.o
+.pio/build/d1_mini_lite/lib9dd/libThingSpeak.a
+.pio/build/d1_mini_lite/lib9dd/ThingSpeak/ThingSpeak.cpp.o
+.pio/build/d1_mini_lite/src/main.cpp.o
+.pio/libdeps/d1_mini_lite/integrity.dat
+.pio/libdeps/d1_mini_lite/ThingSpeak/.gitignore
+.pio/libdeps/d1_mini_lite/ThingSpeak/.piopm
+.pio/libdeps/d1_mini_lite/ThingSpeak/keywords.txt
+.pio/libdeps/d1_mini_lite/ThingSpeak/library.properties
+.pio/libdeps/d1_mini_lite/ThingSpeak/license.md
+.pio/libdeps/d1_mini_lite/ThingSpeak/README.md
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoEthernet/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadFieldSecure/ReadFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadMultipleFields/ReadMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadMultipleFieldsSecure/ReadMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/ReadMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteMultipleFieldsSecure/WriteMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteSingleFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKR1000/WriteSingleFieldSecure/WriteSingleFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRETHShield/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRGSM1400/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRVIDOR4000/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoMKRWiFi1010/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoUnoWiFi Rev2/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoWiFiShield101/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ArduinoYun/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadFieldSecure/ReadFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadMultipleFields/ReadMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadMultipleFieldsSecure/ReadMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/ReadMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteMultipleFieldsSecure/WriteMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteSingleFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP32/WriteSingleFieldSecure/WriteSingleFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadFieldSecure/ReadFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadMultipleFields/ReadMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadMultipleFieldsSecure/ReadMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/ReadMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteMultipleFieldsSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteMultipleFieldsSecure/WriteMultipleFieldsSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteSingleFieldSecure/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/program board directly/WriteSingleFieldSecure/WriteSingleFieldSecure.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/ReadField/ReadField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/ReadField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/WriteMultipleFields/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/WriteMultipleFields/WriteMultipleFields.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/WriteSingleField/secrets.h
+.pio/libdeps/d1_mini_lite/ThingSpeak/examples/ESP8266/via AT commands/WriteSingleField/WriteSingleField.ino
+.pio/libdeps/d1_mini_lite/ThingSpeak/src/ThingSpeak.cpp
+.pio/libdeps/d1_mini_lite/ThingSpeak/src/ThingSpeak.h
 .vscode/c_cpp_properties.json
 .vscode/launch.json
-.vscode/ipch
-src/secrets.h

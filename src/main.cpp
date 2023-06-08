@@ -8,18 +8,18 @@ WiFiClient client;
 void setup_wifi()
 {
   delay(10);
-//  Serial.println();
-//  Serial.print("Connecting to ");
+  Serial.println();
+  Serial.print("Connecting to ");
   Serial.println(SECRET_SSID);
   WiFi.mode(WIFI_STA);
   WiFi.begin(SECRET_SSID, SECRET_PASSWD);
   while (WiFi.status() != WL_CONNECTED)
   {
     delay(500);
-    //   Serial.print(".");
+       Serial.print(".");
   }
-//  Serial.println();
-//  Serial.print("connected!");
+  Serial.println();
+  Serial.print("connected!");
 }
 void setup()
 {
@@ -49,10 +49,12 @@ void loop()
   }
   else
   {
-    for(int i = 0 ; i<100; i++)
+      Serial.println("sth went wrong ");
+    for(int i = 0 ; i<100; i++){
     digitalWrite(LED_BUILTIN,LOW);
     delay (1000);
     digitalWrite(LED_BUILTIN,HIGH);
     delay (100);
+    }
   }
 }
