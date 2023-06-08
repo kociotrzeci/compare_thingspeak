@@ -3,7 +3,6 @@
 #include <string.h>
 #include <ThingSpeak.h>
 #include "secrets.h"
-const char * myCounterReadAPIKey = "J90M1D8KVRXJNNFF";
 WiFiClient client;
 
 void setup_wifi()
@@ -34,14 +33,18 @@ void loop()
 {
   WiFi.mode(WIFI_STA);
   setup_wifi();
-  long temp_out = ThingSpeak.readLongField(counterChannelNumber, 1, myCounterReadAPIKey);
-  long temp_in = ThingSpeak.readLongField(counterChannelNumber, 2, myCounterReadAPIKey);
+  long temp_out = ThingSpeak.readLongField(counterChannelNumber, 2, SECRET_READ_API);
+  long temp_in = ThingSpeak.readLongField(counterChannelNumber, 1, SECRET_READ_API);
   delay(20);
   if (ThingSpeak.getLastReadStatus()==200)
   {
-    if (temp_out < temp_in) digitalWrite(LED_BUILTIN,HIGH);
-    else                        digitalWrite(LED_BUILTIN,LOW);
+    if (temp_out > temp_in) digitalWrite(LED_BUILTIN,LOW); //reversed logic 
+    else                    digitalWrite(LED_BUILTIN,HIGH);
     WiFi.mode(WIFI_SHUTDOWN);
+    Serial.print("out: ");
+    Serial.print(temp_out);
+    Serial.print("   in: ");
+    Serial.println(temp_in);
     delay (120000);
   }
   else
